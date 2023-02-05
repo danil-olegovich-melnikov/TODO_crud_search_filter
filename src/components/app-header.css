@@ -1,0 +1,10 @@
+.app-header {
+    text-align: center;
+    margin: 20px 0;
+}
+
+
+.app-header h2 {
+    font-size: 1.2rem;
+    color: grey;
+}
